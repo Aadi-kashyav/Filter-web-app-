@@ -10,6 +10,6 @@ canvas {
     animation-iteration-count: infinite;
 }
 @keyframes example {
-    from {box-shadow: 1px 1px 38px rgb(47, 0, 255);}
-    to {box-shadow: 1px 1px 38px rgb(195, 0, 255);}
+    from {box-shadow: 1px 1px 38px red;}
+    to {box-shadow: 1px 1px 38px yellow;}
 }
